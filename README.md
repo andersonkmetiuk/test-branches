@@ -1,10 +1,6 @@
 ﻿# test-branches
 
- abcdefghijk
+abcdefghijk
+aaaa
 
- aaaa
-
- bbb
-
-
-
+bbbcccc
