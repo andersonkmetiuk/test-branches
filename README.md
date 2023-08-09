@@ -2,6 +2,7 @@
 
 Bem-vindo ao meu aplicativo de teste em C#! Este é um aplicativo simples que demonstra conceitos básicos de programação em C# e fornece uma introdução ao trabalho com o .NET Core.
 
+
 ## Tabela de Conteúdo
 
 - [Introdução](#introdução)
@@ -47,3 +48,4 @@ Contribuições são bem-vindas! Se você deseja contribuir para este projeto, s
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para mais detalhes.
+
